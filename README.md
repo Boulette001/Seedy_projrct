@@ -1,1 +1,1 @@
-# Seedy_projrct
+# Seedy_project
